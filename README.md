@@ -1,6 +1,7 @@
-# Signal
+# Comet
 
 This is the backend service for a content-first social network.
+![Comet preview](./comet_preview)
 
 ## Find out what your friends are reading, watching and listening to:
 
